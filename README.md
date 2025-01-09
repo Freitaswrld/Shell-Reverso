@@ -5,7 +5,7 @@ Este repositório contém um script que estabelece uma shell reversa com gsocket
 O Gsocket permite que duas estações de trabalho em diferentes redes privadas se comuniquem entre si. Por meio de firewalls e por meio de NAT - como se não houvesse firewall
 ## Uso e Instalação
 ```bash
-wget https://raw.githubusercontent.com/IsraellAndrey/Shell-Reverso/refs/heads/main/gsocket.py
+wget https://raw.githubusercontent.com/Freitasxyz/Shell-Reverso/refs/heads/main/gsocket.py
 python3 gsocket.py
 cat output.txt
 ```
